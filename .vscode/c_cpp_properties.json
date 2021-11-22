@@ -1,0 +1,9 @@
+{
+	"configurations": [
+		{
+			"name": "FirstProjectEditor Editor Win64 Development (FirstProject)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "F:\\MiniGames\\Tutorials\\Unreal4\\FirstProjectCleaned\\FirstProject\\.vscode\\compileCommands_FirstProject.json"
+		}
+	]
+}
